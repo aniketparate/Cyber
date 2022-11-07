@@ -40,3 +40,13 @@ plaintext char are replaced with other chars, numbers & symbols
 ## Transposition cipher
 order of alphabets in plaintext is rearranged to form a cipher text
 <br>Types:-  Rail fence, columnar transposition, double transposition
+
+
+# links
+https://docs.google.com/document/d/1ffFrbyt7fKufTqmyhqgYjdziKurFIeebXGZDbBqoC44/edit?usp=sharing
+<br>
+https://docs.google.com/document/d/1lVryrqofSmeK57e5vnjSwx-O9IWT8D3JSX7oAjy0Cr8/edit?usp=sharing
+<br>
+https://docs.google.com/document/d/1reR8STiC2ApYPGh7bpbZ_hf34OWMl0OY/edit?usp=sharing&ouid=103329321663213171781&rtpof=true&sd=true
+<br>
+https://docs.google.com/document/d/16RSp7oAyjd6wZEHuq7GmOqXpsbGrgFPX4Fh0cvY0ZWc/edit?usp=sharing
